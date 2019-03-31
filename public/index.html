@@ -28,10 +28,12 @@
     <!-- ===============================================-->
     <!--    Stylesheets-->
     <!-- ===============================================-->
-    <link href="//lib/loaders.css/loaders.min.css" rel="stylesheet">
+    <link href="/lib/loaders.css/loaders.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=PT+Mono%7cPT+Serif:400,400i%7cLato:100,300,400,700,800,900" rel="stylesheet">
     <link href="/lib/remodal/remodal.css" rel="stylesheet">
     <link href="/lib/remodal/remodal-default-theme.css" rel="stylesheet">
+    <link href="/lib/owl.carousel/owl.carousel.css" rel="stylesheet">
+    <link href="/lib/lightbox2/css/lightbox.css" rel="stylesheet">
     <link href="/lib/plyr/plyr.css" rel="stylesheet">
     <link href="/css/theme.css" rel="stylesheet">
 
@@ -45,8 +47,8 @@
     <!--    Fancynav-->
     <!--===============================================-->
     <nav class="fancynavbar" data-zanim-lg='{"from":{"opacity":1,"x":70},"to":{"opacity":1,"x":0},"ease":"CubicBezier","duration":0.8,"delay":0.3}' data-zanim-xs='{"from":{"opacity":1,"y":-48},"to":{"opacity":1,"y":0},"ease":"CubicBezier","duration":0.8,"delay":0.3}'
-      data-zanim-trigger="scroll" data-exclusive="true">
-      <div class="fancynavbar-togglerbar bg-black">
+      data-zanim-trigger="scroll" data-exclusive="true" >
+      <div class="fancynavbar-togglerbar bg-black" data-onscroll-fade-in="true">
         <a class="fancynavbar-brand" href="index.html">
           <img class="fancynavbar-brand-img" src="img/logo-sparrow-invert.svg" alt="" width="30" height="30" data-zanim-lg='{"from":{"opacity":0,"x":45},"to":{"opacity":1,"x":0},"ease":"CubicBezier","duration":0.8,"delay":0.4}' data-zanim-trigger="scroll"
           />
@@ -228,20 +230,211 @@
       <!-- End of Preloader ===========================-->
 
 
+      <section class="p-0 position-relative" id="interior-header">
+        <div class="position-absolute a-0" data-zanim-lg='{"delay":0.4,"animation":"zoom-out"}' data-zanim-trigger="scroll">
+          <div class="owl-carousel owl-theme owl-theme-white" data-options='{"items":1,"autoplay":false,"loop":true,"animateOut":"fadeOut","autoplayHoverPause":true,"nav":true,"dots":false}'>
+            <div class="min-vh-100 w-100">
+              <div class="bg-holder" style="background-image:url(/img/austin_wall.jpg);">
+              </div>
+              <!--/.bg-holder-->
+            </div>
+          </div>
+        </div>
+        <div class="container z-index-1">
+          <div class="row vh-100 align-items-center justify-content-center justify-content-lg-start py-10">
+            <div class="col-11 col-sm-10 col-md-8 col-lg-6 col-xl-5">
+              <div class="p-4 p-sm-5 bg-glass border border-2x border-dark parallax overflow-hidden rounded" data-zanim-trigger="scroll" data-zanim-timeline='{"delay":0.6}' data-rellax-speed="3">
+                <div class="overflow-hidden">
+                  <h2 class="display-3 fs-5 fs-sm-6" data-zanim-xs='{"delay":0.2}'><span class="text-underline">big boston</span>
+                    <br/><span class="font-weight-light">io</span></h2>
+                </div>
+                <div class="overflow-hidden">
+                  <h3 class="overflow-hidden mt-4">let's
+                    <br class="d-sm-none" /><span class="typed-text font-italic text-serif font-weight-light" data-typed-text='["solve problems.","innovate.","work together."]'></span></h3>
+                  <p class="text-sans-serif">We offer modern solutions to your modern problems.</p>
+                </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <!-- ============================================-->
       <!-- <section> begin ============================-->
       <section class="text-center" id="software-header">
 
+
+        <!-- end of .container-->
+
         <div class="container">
-          <div class="row justify-content-center align-items-center">
-            <div class="col-lg-8">
-              <div class="rounded-soft overflow-hidden" data-zanim-xs='{"delay":0.1,"animation":"zoom-in"}' data-zanim-trigger="scroll">
-                <div class="player" data-plyr-provider="youtube" data-plyr-embed-id="bTqVqk7FSmY"></div>
+          <div class="row justify-content-center">
+            <div class="col-12 mb-5 mb-md-7 text-center">
+              <h2 class="fs-3 fs-sm-4"><span class="text-underline">powerful inside.</span></h2>
+            </div>
+            <div class="col-lg-5 pr-lg-4 mb-4">
+              <div class="media" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="oveflow-hidden">
+                  <img class="media-img mr-3 mr-sm-4" src="/img/icons/bootstrap.svg" alt="" data-zanim-xs='{"delay":0.2,"animation":"slide-right"}' />
+                </div>
+                <div class="media-body">
+                  <div class="overflow-hidden">
+                    <h4 class="mb-2" data-zanim-xs='{"delay":0.1,"animation":"slide-right"}'>bootstrap 4.x</h4>
+                  </div>
+                  <div class="overflow-hidden">
+                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Build responsive, mobile-first projects on the web with the world's most popular front-end component library.</p>
+                  </div>
+                </div>
               </div>
-              <h1 class="overflow-hidden mt-4">welcome to
-                <br class="d-sm-none" /><span class="typed-text font-italic text-serif font-weight-light" data-typed-text='["productivity.","workflow.","organization."]'></span></h1>
-              <p class="text-sans-serif">The platform for your ideas, your team, your projects, your business.</p>
-              <a class="btn btn-outline-dark rounded-capsule mt-4" href="#">Buy Now</a>
+            </div>
+            <div class="col-lg-5 pr-lg-4 mb-4">
+              <div class="media" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="oveflow-hidden">
+                  <img class="media-img mr-3 mr-sm-4" src="/img/icons/icon-target.svg" alt="" data-zanim-xs='{"delay":0.2,"animation":"slide-right"}' />
+                </div>
+                <div class="media-body">
+                  <div class="overflow-hidden">
+                    <h4 class="mb-2" data-zanim-xs='{"delay":0.1,"animation":"slide-right"}'>responsive CSS helper classes</h4>
+                  </div>
+                  <div class="overflow-hidden">
+                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Toggle styles on any element, across any breakpoint according to Bootstrap grid system, using Sparrow's CSS helper classes.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-5 pr-lg-4 mb-4">
+              <div class="media" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="oveflow-hidden">
+                  <img class="media-img mr-3 mr-sm-4" src="/img/icons/favorites-button.svg" alt="" data-zanim-xs='{"delay":0.2,"animation":"slide-right"}' />
+                </div>
+                <div class="media-body">
+                  <div class="overflow-hidden">
+                    <h4 class="mb-2" data-zanim-xs='{"delay":0.1,"animation":"slide-right"}'>32 sets of elements</h4>
+                  </div>
+                  <div class="overflow-hidden">
+                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Elegantly redesigned popular plugins including touch sliders, typed text, parallax, video background and more.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-5 pr-lg-4 mb-4">
+              <div class="media" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="oveflow-hidden">
+                  <img class="media-img mr-3 mr-sm-4" src="/img/icons/icon-line-chart.svg" alt="" data-zanim-xs='{"delay":0.2,"animation":"slide-right"}' />
+                </div>
+                <div class="media-body">
+                  <div class="overflow-hidden">
+                    <h4 class="mb-2" data-zanim-xs='{"delay":0.1,"animation":"slide-right"}'>buttery smooth animation</h4>
+                  </div>
+                  <div class="overflow-hidden">
+                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Crazy fast, responsive, efficient and freakishly robust GSAP; giving you the new standard for HTML5 and javascript animation.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-5 pr-lg-4 mb-4 mb-lg-0">
+              <div class="media" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="oveflow-hidden">
+                  <img class="media-img mr-3 mr-sm-4" src="/img/icons/multi-purpose.svg" alt="" data-zanim-xs='{"delay":0.2,"animation":"slide-right"}' />
+                </div>
+                <div class="media-body">
+                  <div class="overflow-hidden">
+                    <h4 class="mb-2" data-zanim-xs='{"delay":0.1,"animation":"slide-right"}'>modular &amp; multipurpose</h4>
+                  </div>
+                  <div class="overflow-hidden">
+                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Create rich UI and style with sparrow's array of ready-made modular sections - carefully designed for wide range of purposes.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-5 pr-lg-4">
+              <div class="media" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="oveflow-hidden">
+                  <img class="media-img mr-3 mr-sm-4" src="/img/icons/icon-coding.svg" alt="" data-zanim-xs='{"delay":0.2,"animation":"slide-right"}' />
+                </div>
+                <div class="media-body">
+                  <div class="overflow-hidden">
+                    <h4 class="mb-2" data-zanim-xs='{"delay":0.1,"animation":"slide-right"}'>familiar markup</h4>
+                  </div>
+                  <div class="overflow-hidden">
+                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Based on the Bootstrap 4 code base, sparrow's code is instantly familiar, easy to understand and a straightforward to extend.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </section>
+      <!-- <section> close ============================-->
+      <!-- ============================================-->
+
+
+
+
+      <!-- =========================================================-->
+      <!-- <section> begin, our process ============================-->
+      <section class="border-top border-300" id="default-process">
+
+        <div class="container">
+          <div class="row justify-content-center text-center mb-6">
+            <div class="col-lg-6">
+              <h2 class="fs-3 fs-sm-4 text-underline mb-3">our process</h2>
+              <p class="text-500 font-italic">Our process is a flexible framework that adapts, evolves and responds to your needs. It is the streamlined result of two decades of website design and marketing for hundreds of clients.</p>
+              <hr class="hr-short mt-5 border-300" />
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 pl-lg-7">
+              <div class="row align-items-end">
+                <div class="col-lg-6 order-lg-2 text-center">
+                  <img class="img-fluid" src="/img/illustration/process-01.svg" alt="" width="400" />
+                </div>
+                <div class="col-lg-6 border-lg-left border-lg-bottom border-300 pb-lg-8 mt-4 mt-lg-0 mb-8 mb-lg-0">
+                  <div class="process-item ml-6 ml-sm-8 ml-lg-6"><span class="process-item-number">01</span>
+                    <h3>plan</h3>
+                    <p>We set priorities, organize content, and understand the buyer’s journey that your audience takes as they navigate your website. At the end of strategy, you will have a Blueprint for your website project, a comprehensive strategic plan
+                      for your website design, content, and functionality.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-lg-6 border-lg-right border-lg-bottom border-300 text-center py-lg-8">
+                  <img class="img-fluid" src="/img/illustration/process-02.svg" alt="" width="400" />
+                </div>
+                <div class="col-lg-6 mt-4 mt-lg-0 mb-8 mb-lg-0 my-lg-8">
+                  <div class="process-item ml-6 ml-sm-8 ml-lg-6"><span class="process-item-number">02</span>
+                    <h3>design</h3>
+                    <p>Once the Blueprint is approved, we create wireframes and a design comp for your review. This process involves various reviews, approvals, and close communication between you and our creative team. We begin with the Homepage to set
+                      style, image and branding standards, then move toward interior layouts.</p>
+                    <a class="btn btn-outline-dark btn-sm mt-3" href="#">View Methods</a>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-lg-6 order-lg-2 text-center align-self-center">
+                  <img class="img-fluid" src="/img/illustration/process-03.svg" alt="" width="400" />
+                </div>
+                <div class="col-lg-6 border-lg-left border-lg-bottom border-300 py-lg-8 mt-4 mt-lg-0 mb-8 mb-lg-0">
+                  <div class="process-item ml-6 ml-sm-8 ml-lg-6"><span class="process-item-number">03</span>
+                    <h3>develop</h3>
+                    <p>With the blueprint &amp; design comps as our guide, the development team begins to create your website with the state of the earth tools. Our entire team works to add content, final design elements, review, &amp; test your website
+                      for quality.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="row overflow-hidden pb-1">
+                <div class="col-lg-6 border-lg-right border-300 text-center py-lg-8">
+                  <img class="img-fluid" src="/img/illustration/process-04.svg" alt="" width="400" />
+                </div>
+                <div class="col-lg-6 align-self-center mt-4 mt-lg-0 mt-lg-8">
+                  <div class="process-item process-item-last ml-6 ml-sm-8 ml-lg-6"><span class="process-item-number">04</span>
+                    <h3>deploy</h3>
+                    <p>After testing and review, we present your new website. Upon your approval, your website will be launched, promoted and optimized for search engines such as Google &amp; Bing.</p>
+                    <a class="btn btn-outline-dark btn-sm mt-3" href="page-portfolio.html">See portfolio</a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -252,10 +445,8 @@
       <!-- ============================================-->
 
 
-
-
-      <!-- ============================================-->
-      <!-- <section> begin ============================-->
+      <!-- ==========================================================-->
+      <!-- <section> begin, testimonials ============================-->
       <section class="bg-light py-7 py-lg-9" id="software-testimonial">
 
         <div class="container">
@@ -311,8 +502,6 @@
       </section>
       <!-- <section> close ============================-->
       <!-- ============================================-->
-
-
 
 
       <!-- ============================================-->
@@ -549,6 +738,8 @@
     <script src="lib/plyr/plyr.min.js"></script>
     <script src="js/typed.js"></script>
     <script src="js/theme.js"></script>
+    <script src="lib/lightbox2/js/lightbox.js"></script>
+    <script src="lib/owl.carousel/owl.carousel.js"></script>
 
   </body>
 
