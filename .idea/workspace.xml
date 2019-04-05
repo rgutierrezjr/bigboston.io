@@ -2,196 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1707e3dd-2e69-48e6-a9e6-8d0704ed6128" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/img/about-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/about-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/about-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/about.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/austin_wall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/austin_wall.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/author.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bicycle-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bicycle-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bicycle-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bicycle-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bicycle-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bicycle-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bicycle-07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bicycle-08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bicycle-09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bicycle-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bicycle-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bigcartel-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bigcartel-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bigcartel-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/bigcartel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/blog-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/blog-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/blog-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/blog-header-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/blog-header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/blog-single-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/cafe-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/cafe-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/cafe-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/cafe-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/cafe-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/cafe-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/cafe-07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/cafe-08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/cafe-09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/cafe-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/cafe-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/card-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/card-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/creative-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/creative.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/digital-strategy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicon-sparrow-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicon-sparrow.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicons/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicons/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicons/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicons/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicons/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicons/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/bigcartel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-bicycle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-cafe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-coming-soon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-digital.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-event.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-promotion.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-single-blog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header-split-youtube-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/studio-music.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/studio-recording.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/studio-services.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/headers/wedding.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-10-f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-11-f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-12-f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-13-f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-7-f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-8-f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-9-f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/interior-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/logo-sparrow-digital.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/logo-sparrow-invert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/logo-sparrow-invert.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/logo-sparrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/logo-sparrow.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/map-marker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/necklace-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio-07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio-08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/portfolio-09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/promotion-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-bicycle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-bigcartel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-cafe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-digital.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-ecommerce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-event.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-interior.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-landing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-promotion.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-software.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/home-studio.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-404.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-about.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-blog-single.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-blog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-cart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-casestudy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-coming-soon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-contact.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-portfolio.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-product-single.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-rtl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-services.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-shop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-signin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-signup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-split-static.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/screenshots/page-split-youtube.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/shop-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/shop-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/shop-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/shop-header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/showcase/ipad--l-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/showcase/ipad--l-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/showcase/ipad--l-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/showcase/ipad--p-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/showcase/iphone--l-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/showcase/iphone-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/showcase/iphone-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/showcase/iphone-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/showcase/macbook-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/showcase/macbook-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/signature.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/signin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/signup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/single-blog-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/single-blog-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/single-blog-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/single-blog-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/single-shop-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/single-shop-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/single-shop-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/software-testimonial.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/sparrow-sqr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/studio-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/studio-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/studio-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/studio-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/studio-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/team/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/test-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -204,19 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="131" column="85" selection-start-line="131" selection-start-column="85" selection-end-line="131" selection-end-column="85" />
+            <state relative-caret-position="314">
+              <caret line="485" column="27" selection-start-line="485" selection-start-column="27" selection-end-line="485" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/img/austin_wall.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -358,12 +170,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553653374534</updated>
-      <workItem from="1553653375601" duration="32799000" />
+      <workItem from="1553653375601" duration="33155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32799000" />
+    <option name="totallyTimeSpent" value="33155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="23" width="960" height="1177" extended-state="0" />
@@ -491,18 +303,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/austin_wall.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="131" column="85" selection-start-line="131" selection-start-column="85" selection-end-line="131" selection-end-column="85" />
+        <state relative-caret-position="314">
+          <caret line="485" column="27" selection-start-line="485" selection-start-column="27" selection-end-line="485" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/austin_wall.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
