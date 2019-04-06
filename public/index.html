@@ -411,25 +411,17 @@
                             class="text-700" href="tel:+13234324534">+5129983520</a></span></p>
                     <p class="font-weight-bold mb-4">E-mail:<span class="ml-2 font-weight-normal font-italic"><a
                             class="text-700" href="mailto:ruben@bigboston.io">ruben@bigboston.io</a></span></p>
-                    <!--<div class="mt-3">-->
-                        <!--<a class="btn btn-dark btn-sm mr-2" href="#"><span class="fab fa-twitter"-->
-                                                                           <!--data-fa-transform="grow-6"></span></a>-->
-                        <!--<a class="btn btn-dark btn-sm mr-2" href="#"><span class="fab fa-facebook-f"-->
-                                                                           <!--data-fa-transform="grow-6"></span></a>-->
-                        <!--<a class="btn btn-dark btn-sm mr-2" href="#"><span class="fab fa-google-plus-g"-->
-                                                                           <!--data-fa-transform="grow-6"></span></a>-->
-                        <!--<a class="btn btn-dark btn-sm" href="#"><span class="fab fa-linkedin-in"-->
-                                                                      <!--data-fa-transform="grow-6"></span></a>-->
-                    <!--</div>-->
                     <h3 class="mt-7">Give us a shout</h3>
-                    <form class="zform mt-4" method="POST">
+                    <form action="/contactRequest" class="zform mt-4" method="POST">
                         <input class="form-control border-300" type="hidden" name="to"
-                               value="username@domain.extension">
-                        <input class="form-control border-300 mt-3" type="text" placeholder="Your Name"
+                               value="ruben@bigboston.io">
+                        <input name="name" class="form-control border-300 mt-3" type="text" placeholder="Your Name"
                                aria-label="Text input with dropdown button">
-                        <input class="form-control border-300 mt-3" type="text" placeholder="Phone Number"
+                        <input name="email" class="form-control border-300 mt-3" type="email" placeholder="Your Email"
                                aria-label="Text input with dropdown button">
-                        <textarea class="form-control border-300 mt-3" rows="11" placeholder="Your Message"
+                        <input name="number" class="form-control border-300 mt-3" type="text" placeholder="Phone Number"
+                               aria-label="Text input with dropdown button">
+                        <textarea name="message" class="form-control border-300 mt-3" rows="11" placeholder="Your Message"
                                   required></textarea>
                         <button class="btn btn-block btn-dark mt-4" type="submit">Send<span
                                 class="fa fa-paper-plane ml-1"></span></button>
