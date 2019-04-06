@@ -488,6 +488,13 @@
 <script src="lib/lightbox2/js/lightbox.min.js"></script>
 <script src="lib/owl.carousel/owl.carousel.js"></script>
 
+<script>
+    let host = "www.bigboston.io";
+    if ((host == window.location.host) && (window.location.protocol != "https:")){
+        window.location.protocol = "https";
+    }
+</script>
+
 </body>
 
 </html>
